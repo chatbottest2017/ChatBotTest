@@ -1,6 +1,6 @@
 {
-    "appSecret": "my_voice_is_my_password_verify_me",
-    "pageAccessToken": "my_voice_is_my_password_verify_me",
+    "appSecret": "480d97737b58907ae9ffb9e8e6078198",
+    "pageAccessToken": "EAAFhZCt0LPeIBACZANlb2vZCmgcSePYrZB3NBVOuXWiDM84RQKR4GMd17AbZAPaa0Ewid4vGzCGwFpGyy2QV6Ae1zcBPNGsvd74ZAYMJXEMVp1GcnRSsTEXmmlyjZCyirKJGXVXn5j6Qw80Mb5qqMpuTgqmEI4QzKhdkUHmZBr4TBAZDZD",
     "validationToken": "my_voice_is_my_password_verify_me",
     "serverURL": "https://chatbottest2017.azurewebsites.net/"
 }
