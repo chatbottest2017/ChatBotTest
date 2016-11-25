@@ -2,5 +2,5 @@
     "appSecret": "480d97737b58907ae9ffb9e8e6078198",
     "pageAccessToken": "EAAFhZCt0LPeIBAPnGIMyNZAkNbcvX2qHdwsJ1ZCXj9gCkE0idddd7xmhJSgxJFhutCN6pO21xJFpD5vXNhrhuwgokOGIbgEAvKwzLmZAtMeaqLkjGAGM07pagiPsJ1E0ljTNJ1PpR4RuSXnXWa9Pi4cwqLEfyLbLPZA2s8mTdLQZDZD",
     "validationToken": "umuteren2017!",
-    "serverURL": "http://softtechchatbot.azurewebsites.net/"
+    "serverURL": "https://softtechchatbot.azurewebsites.net/"
 }
